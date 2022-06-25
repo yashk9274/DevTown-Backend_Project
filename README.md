@@ -2,8 +2,8 @@
 
 Modules to be installed
 
--npm install express
--npm install ejs
+- npm install express
+- npm install ejs
 -npm install -g --force nodemon
 -npm install bcrypt
 -npm install flash
