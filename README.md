@@ -1,6 +1,14 @@
-# Example
+# DevTown Back-end Web Development using Javascript-NodeJs-MongoDB Project
 
-To run this example:
+Modules to be installed
 
-- `npm install` or `yarn`
-- `npm run dev` or `yarn dev`
+npm install express
+npm install ejs
+npm install -g --force nodemon
+npm install bcrypt
+npm install flash
+npm install passport
+npm install express-flash
+npm install express-session
+npm install passport-local
+npm install dotenv
